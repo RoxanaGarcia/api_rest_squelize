@@ -1,0 +1,21 @@
+{
+  "name": "api_rest_squelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoxanaGarcia/api_rest_squelize.git"
+  },
+  "keywords": [],
+  "author": "Roxana E Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoxanaGarcia/api_rest_squelize/issues"
+  },
+  "homepage": "https://github.com/RoxanaGarcia/api_rest_squelize#readme"
+}
